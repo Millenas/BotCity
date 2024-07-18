@@ -6,6 +6,7 @@ Bem-vindo ao repositório de treinamento da BotCity! Este repositório contém t
 ## Estrutura do Repositório
 
 - **/labs**: Contém exercícios práticos para cada módulo do treinamento.
+- **/Exemplos**: Resultados esperados após a excuçãos dos labs.
 - **/desafio**: Contém o script e descrição do desáfio final do treinamento.
 
 ## Como Usar Este Repositório
