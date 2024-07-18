@@ -33,13 +33,11 @@ Bem-vindo ao repositório de treinamento da BotCity! Este repositório contém t
 
 ## Recursos Adicionais
 
-- [Documentação Oficial do BotCity](https://docs.botcity.dev/)
-- [Fórum da Comunidade BotCity](https://forum.botcity.dev/)
-- [Vídeos Tutoriais no YouTube](https://www.youtube.com/channel/UC2WbVxwnwKJfgm9zXsmD1hg)
+- [Documentação Labs do BotCity]([https://docs.botcity.dev/](https://treinamento.botcity.dev/labs/automacoes/desktop/))
 
 ## Suporte
 
-Se você encontrar algum problema ou tiver dúvidas durante o treinamento, não hesite em abrir uma issue neste repositório ou entrar em contato através do fórum da comunidade BotCity.
+Se você encontrar algum problema ou tiver dúvidas durante o treinamento, não hesite em abrir uma issue neste repositório. 
 
 ---
 
